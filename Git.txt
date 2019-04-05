@@ -1,2 +1,1 @@
-git init
-dssdvx c z
+I just learn github
